@@ -23,7 +23,7 @@ const About = () => {
           <div className="content">
             <h2 className="entry-title">About Me</h2>
             <figure className="personal-image">
-              <img src={image} alt="Yahya" width={"350px"} height={"350px"} />
+              <img src={image} alt="Yahya" width={"320px"} height={"500px"} />
             </figure>
             <p className="leading">{summary}</p>
             <ProgressBar skills={skills} description={description} />

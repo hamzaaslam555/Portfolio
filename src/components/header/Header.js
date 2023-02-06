@@ -12,7 +12,7 @@ const Header = () => {
             <div className="container">
                 <Link to={route_constants.HOME} id="branding">
                     <img src={logo} height={'40rem'} width={'40rem'} alt="Logo" />
-                    <small className="site-description">Yahya Kayani</small>
+                    <small className="site-description">Hamza Aslam</small>
                 </Link>
                 <Nav />
                 <div className="mobile-menu"></div>

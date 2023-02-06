@@ -16,11 +16,11 @@ const Slider = () => {
         <ul className="slides">
           <li className="lazy-bg">
             <div className="container">
-              <h2 className={nameClass}>Yahya Kayani</h2>
-              <h3 className="slide-subtitle">Software Engineer</h3>
+              <h2 className={nameClass}>Hamza Aslam</h2>
+              <h3 className="slide-subtitle">Software Engineer/Game Developer</h3>
               <p className="slide-desc">
                 An individual who has a passion for making <br></br> great
-                looking and optimized web apps.
+                looking and optimized Web apps and Games Applicaions.
               </p>
               <NavLink to={route_constants.ABOUT} className="button cut-corner">
                 About Me

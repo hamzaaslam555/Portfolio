@@ -10,9 +10,9 @@ const Testimonial = () => {
                 <ul className="slides">
                     <li>
                         <blockquote>
-                            <p>Despite working under tight deadlines, the quality of Yahya,s work has remained excellent.With his dedication,grit and dilligence, i am confident that he will be successful in all his future endeavours. </p>
-                            <cite>Badar Khan</cite>
-                            <span>Managing Director, Numetrics</span>
+                            <p>Despite working under tight deadlines, the quality of Hamza's work has remained excellent.With his dedication,grit and dilligence, i am confident that he will be successful in all his future endeavours. </p>
+                            <cite>Dave Rodriguze</cite>
+                            <span>CO Founder, Kayac Studios</span>
                         </blockquote>
                     </li>
                 </ul>

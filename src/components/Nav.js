@@ -26,11 +26,7 @@ const Nav = () => {
 					className="menu-item"
 					activeClassName="current-menu-item"
 				>Projects</NavLink>
-				<NavLink
-					to={route_constants.ARTICLES}
-					className="menu-item"
-					activeClassName="current-menu-item"
-				>Articles</NavLink>
+				
 			</ul>
 		</nav>
 	)
