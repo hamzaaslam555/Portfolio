@@ -1,0 +1,2 @@
+(this.webpackJsonpresumproject=this.webpackJsonpresumproject||[]).push([[20],{61:function(s,t,e){"use strict";e.r(t),t.default=e.p+"static/media/hamza2.f95a11b2.png"}}]);
+//# sourceMappingURL=20.cdcc4af5.chunk.js.map
